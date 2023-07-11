@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 - [Ankita Patil](https://github.com/AnkitaPatil2002)
+- [Lennox Charles](https://github.com/lennyAiko)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
   [Uchenna Adubasim](https://github.com/uche-wealth)
 - [Harsh](https://github.com/harshvsri)
